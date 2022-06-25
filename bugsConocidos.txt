@@ -1,0 +1,1 @@
+- Resize ventana no funciona actualmente, componentes se mueven de lugar, se establece ventana de tamaño fijo temporalmente
